@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockEndpoint_Spike", "MockEndpoint_Spike\MockEndpoint_Spike.csproj", "{7919F5F2-ED73-4457-888A-0D4E6644D21B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockEndpoint_Spike_Tests", "MockEndpoint_Spike_Tests\MockEndpoint_Spike_Tests.csproj", "{797C7C04-E37D-4E8A-9D08-8231B78AB26C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7919F5F2-ED73-4457-888A-0D4E6644D21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7919F5F2-ED73-4457-888A-0D4E6644D21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7919F5F2-ED73-4457-888A-0D4E6644D21B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{797C7C04-E37D-4E8A-9D08-8231B78AB26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797C7C04-E37D-4E8A-9D08-8231B78AB26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797C7C04-E37D-4E8A-9D08-8231B78AB26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797C7C04-E37D-4E8A-9D08-8231B78AB26C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
